@@ -7,8 +7,6 @@ plugins {
 
 version = '1.0.0'
 group = 'com.maydaymemory.cocobar'
-def mod_id = 'cocobar'
-def mod_name = 'CocoBar'
 
 base {
     archivesName = mod_id
